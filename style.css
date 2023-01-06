@@ -1,0 +1,32 @@
+body {
+  width: 0;
+  height: 0;
+}
+.container {
+  font-size: 3rem;
+  padding: -200px -20px;
+  margin-left: 590px;
+  margin-top: 50px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.locationf {
+  align-items: center;
+  height: 45px;
+  width: 220px;
+  font-size: 24px;
+  border: 3px solid rgb(88, 4, 4);
+  background-color: rgb(142, 204, 204);
+  border-radius: 10px 0px 10px 0px;
+  margin-left: 470px;
+  margin-top: 0px;
+}
+#out,
+#weather {
+  margin-left: 300px;
+  display: flex;
+  width: 900px;
+  font-size: 40px;
+  font-weight: 100;
+}
